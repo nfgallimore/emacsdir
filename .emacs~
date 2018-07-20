@@ -1,0 +1,3 @@
+(set-background-color "honeydew")
+
+(add-to-list 'custom-theme-load-path "~/themes/cyberpunk-theme.el")
